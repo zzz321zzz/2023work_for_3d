@@ -1,6 +1,5 @@
 # 2023work_for_3d
 This is an assignment for 3D.
-### 三维CAD建模课程作业程序使用说明
 ### 一．作业任务
 
 1.定义半边数据结构
