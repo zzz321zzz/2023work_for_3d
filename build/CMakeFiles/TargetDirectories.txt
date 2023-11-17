@@ -1,0 +1,4 @@
+D:/3dCAD/zyj3dCAD/build/CMakeFiles/CAD.dir
+D:/3dCAD/zyj3dCAD/build/CMakeFiles/THREED.dir
+D:/3dCAD/zyj3dCAD/build/CMakeFiles/edit_cache.dir
+D:/3dCAD/zyj3dCAD/build/CMakeFiles/rebuild_cache.dir

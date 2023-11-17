@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/3dCAD/zyj3dCAD/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CAD.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CAD.dir\\src\\EulerOperation.cpp.obj -c D:\\3dCAD\\zyj3dCAD\\src\\EulerOperation.cpp",
+  "file": "D:/3dCAD/zyj3dCAD/src/EulerOperation.cpp"
+},
+{
+  "directory": "D:/3dCAD/zyj3dCAD/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CAD.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CAD.dir\\src\\Sweep.cpp.obj -c D:\\3dCAD\\zyj3dCAD\\src\\Sweep.cpp",
+  "file": "D:/3dCAD/zyj3dCAD/src/Sweep.cpp"
+},
+{
+  "directory": "D:/3dCAD/zyj3dCAD/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CAD.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CAD.dir\\src\\main.cpp.obj -c D:\\3dCAD\\zyj3dCAD\\src\\main.cpp",
+  "file": "D:/3dCAD/zyj3dCAD/src/main.cpp"
+},
+{
+  "directory": "D:/3dCAD/zyj3dCAD/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/THREED.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\THREED.dir\\src\\main.cpp.obj -c D:\\3dCAD\\zyj3dCAD\\src\\main.cpp",
+  "file": "D:/3dCAD/zyj3dCAD/src/main.cpp"
+}
+]

@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libCAD.a CMakeFiles/CAD.dir/src/EulerOperation.cpp.obj CMakeFiles/CAD.dir/src/Sweep.cpp.obj CMakeFiles/CAD.dir/src/main.cpp.obj
+D:\mingw64\bin\ranlib.exe libCAD.a
